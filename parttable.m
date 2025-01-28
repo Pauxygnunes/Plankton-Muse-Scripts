@@ -13,7 +13,8 @@
 % Created in 2024 under MATLAB R2023a (Mac OS)
 %
 % Copyright ©2024, Pauxy Gentil-Nunes, Jonas Hocherman,PArtiMus Research
-% Groups - PPGM-UFRJ. See License.txt
+% Groups - PPGM-UFRJ. Thanks to Lumi Haraguchi for the assistance and help.
+% See License.txt 
 % .......... Initialization
 clc
 tab = []; 
